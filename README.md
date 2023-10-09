@@ -1,18 +1,21 @@
 ### Hi there 👋
 
+<div>
+  
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/intellijidea-2B2B2B?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarcharC2k&show_icons=true&theme=radical)
